@@ -46,7 +46,7 @@
 .hero {
   position: relative;
   background-color: var(--maximum-pink-light_a10);
-  background-image: url('/assets/images/My\ life.jpg');
+  
   padding-block-start: calc(var(--section-padding) + 60px);
   text-align: center;
   overflow: hidden;
